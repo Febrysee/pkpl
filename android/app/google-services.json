@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "147814267525",
+    "project_id": "obatshop-9ee82",
+    "storage_bucket": "obatshop-9ee82.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:147814267525:android:c6935bd35bae6a185dc7ec",
+        "android_client_info": {
+          "package_name": "com.example.apotek"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpFnm6R7Es9HgdQ5Q-qLljOayzywqACVc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
